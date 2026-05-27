@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugantharaj-T
-- 👀 I’m interested in full-stack.
-- 🌱 I’m currently learning JAVA programming
+- 👀 I’m interested in fAi based innovative projects , UI/UX designing , full-stack projects.
+- 🌱 I’m currently learning Ai tools to intergrate in my projects.
 - 📫 How to reach me @ www.linkedin.com/in/sugantharaj-t-363999292
 - 😄 Pronouns: HE/HIM
 
