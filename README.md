@@ -1,6 +1,9 @@
 *Hi, I’m @sugantharaj-T
+
 *I’m interested in AI based innovative projects , UI/UX designing , full-stack projects.
+
 *I’m currently learning Ai tools to intergrate in my projects.
+
 reach me @ www.linkedin.com/in/sugantharaj-t-363999292
 
 <!---
